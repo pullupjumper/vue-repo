@@ -20,7 +20,7 @@
 
 <script>
   import NavHeader from "@/components/NavHeader";
-  import SideBar from "@/components/SideBar";
+  import SideBar from "@/components/sidebar/Sidebar";
 
   export default {
     name: "Home",
